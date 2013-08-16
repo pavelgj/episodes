@@ -49,7 +49,6 @@
 library episodes;
 
 import 'dart:html';
-import 'dart:uri';
 
 import 'src/constants.dart';
 part 'src/reporter.dart';
